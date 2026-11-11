@@ -1,0 +1,4 @@
+aiogram>=3.13,<4.0
+aiosqlite>=0.20
+# python-dotenv — опционально (нужен только для локального .env файла)
+python-dotenv>=1.0,<2.0
